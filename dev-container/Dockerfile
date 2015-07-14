@@ -1,4 +1,4 @@
-FROM digitalwonderland/base
+FROM xdevelsistemas/centos-base
 
 ENV GOPATH /var/lib/golang
 ENV PATH $GOPATH/bin:$PATH
